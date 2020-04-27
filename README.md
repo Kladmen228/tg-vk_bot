@@ -6,4 +6,4 @@
 Ссылка на вк бота: https://vk.com/kladmen228_bot
 
 Поскольку боты пока на протестированы должным образом, команды для подключения мужду мессенджерами скрыты от пользователей /strt - для телеграм, search для вк
-# ![alt text](https://github.com/Kladmen228/readmes/blob/master/tg-vk/vk-tg.png)
+# ![alt text](https://github.com/Kladmen228/tg-vk_bot/blob/master/images/vk-tg.png)
